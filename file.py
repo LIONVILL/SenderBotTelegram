@@ -4,8 +4,8 @@ from pyrogram import Client, enums
 from config import msg, chats
 
 
-api_id = 26776306
-api_hash = "a5761815a5297e97579288cf7fae51ea"
+api_id = 123
+api_hash = "hash"
 
 # Настройки
 MIN_DELAY = 7 #Минимальная задержка между отправкой сообщений
